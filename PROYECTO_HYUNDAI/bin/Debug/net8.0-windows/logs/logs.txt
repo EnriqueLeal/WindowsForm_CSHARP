@@ -1,0 +1,78 @@
+2024-04-07 10:32:01 - Error: System.InvalidCastException: Unable to cast object of type 'System.Windows.Forms.TabControl' to type 'System.Windows.Forms.Button'.
+   at PROYECTO_HYUNDAI.Formularios.MainForm.ButtonViewDetails_Click(Object sender, EventArgs e) in C:\Users\Enrique\source\repos\PROYECTO_HYUNDAI\PROYECTO_HYUNDAI\Formularios\MainForm.cs:line 66
+2024-04-07 11:15:16 - Error: System.InvalidCastException: Unable to cast object of type 'System.Windows.Forms.TabControl' to type 'System.Windows.Forms.Button'.
+   at PROYECTO_HYUNDAI.Formularios.MainForm.ButtonViewDetails_Click(Object sender, EventArgs e) in C:\Users\Enrique\source\repos\PROYECTO_HYUNDAI\PROYECTO_HYUNDAI\Formularios\MainForm.cs:line 66
+2024-04-07 11:15:17 - Error: System.InvalidCastException: Unable to cast object of type 'System.Windows.Forms.TabControl' to type 'System.Windows.Forms.Button'.
+   at PROYECTO_HYUNDAI.Formularios.MainForm.ButtonViewDetails_Click(Object sender, EventArgs e) in C:\Users\Enrique\source\repos\PROYECTO_HYUNDAI\PROYECTO_HYUNDAI\Formularios\MainForm.cs:line 66
+2024-04-07 11:15:19 - Error: System.InvalidCastException: Unable to cast object of type 'System.Windows.Forms.TabControl' to type 'System.Windows.Forms.Button'.
+   at PROYECTO_HYUNDAI.Formularios.MainForm.ButtonViewDetails_Click(Object sender, EventArgs e) in C:\Users\Enrique\source\repos\PROYECTO_HYUNDAI\PROYECTO_HYUNDAI\Formularios\MainForm.cs:line 66
+2024-04-07 11:15:24 - Error: System.InvalidCastException: Unable to cast object of type 'System.Windows.Forms.TabControl' to type 'System.Windows.Forms.Button'.
+   at PROYECTO_HYUNDAI.Formularios.MainForm.ButtonViewDetails_Click(Object sender, EventArgs e) in C:\Users\Enrique\source\repos\PROYECTO_HYUNDAI\PROYECTO_HYUNDAI\Formularios\MainForm.cs:line 66
+2024-04-07 11:17:30 - Error: System.InvalidCastException: Unable to cast object of type 'System.Windows.Forms.TabControl' to type 'System.Windows.Forms.Button'.
+   at PROYECTO_HYUNDAI.Formularios.MainForm.ButtonViewDetails_Click(Object sender, EventArgs e) in C:\Users\Enrique\source\repos\PROYECTO_HYUNDAI\PROYECTO_HYUNDAI\Formularios\MainForm.cs:line 66
+2024-04-07 11:21:12 - Error: System.InvalidCastException: Unable to cast object of type 'System.Windows.Forms.TabControl' to type 'System.Windows.Forms.Button'.
+   at PROYECTO_HYUNDAI.Formularios.MainForm.ButtonViewDetails_Click(Object sender, EventArgs e) in C:\Users\Enrique\source\repos\PROYECTO_HYUNDAI\PROYECTO_HYUNDAI\Formularios\MainForm.cs:line 69
+2024-04-07 11:21:14 - Error: System.InvalidCastException: Unable to cast object of type 'System.Windows.Forms.TabControl' to type 'System.Windows.Forms.Button'.
+   at PROYECTO_HYUNDAI.Formularios.MainForm.ButtonViewDetails_Click(Object sender, EventArgs e) in C:\Users\Enrique\source\repos\PROYECTO_HYUNDAI\PROYECTO_HYUNDAI\Formularios\MainForm.cs:line 69
+2024-04-07 12:30:53 - Error: System.InvalidCastException: Unable to cast object of type 'System.Windows.Forms.TabControl' to type 'System.Windows.Forms.Button'.
+   at PROYECTO_HYUNDAI.Formularios.MainForm.ButtonViewDetails_Click(Object sender, EventArgs e) in C:\Users\Enrique\source\repos\PROYECTO_HYUNDAI\PROYECTO_HYUNDAI\Formularios\MainForm.cs:line 62
+2024-04-07 14:43:15 - Error: System.InvalidCastException: Unable to cast object of type 'System.Windows.Forms.TabControl' to type 'System.Windows.Forms.Button'.
+   at PROYECTO_HYUNDAI.Formularios.MainForm.ButtonViewDetails_Click(Object sender, EventArgs e) in C:\Users\Enrique\source\repos\PROYECTO_HYUNDAI\PROYECTO_HYUNDAI\Formularios\MainForm.cs:line 64
+2024-04-07 14:43:17 - Error: System.InvalidCastException: Unable to cast object of type 'System.Windows.Forms.TabControl' to type 'System.Windows.Forms.Button'.
+   at PROYECTO_HYUNDAI.Formularios.MainForm.ButtonViewDetails_Click(Object sender, EventArgs e) in C:\Users\Enrique\source\repos\PROYECTO_HYUNDAI\PROYECTO_HYUNDAI\Formularios\MainForm.cs:line 64
+2024-04-07 14:43:19 - Error: System.InvalidCastException: Unable to cast object of type 'System.Windows.Forms.TabControl' to type 'System.Windows.Forms.Button'.
+   at PROYECTO_HYUNDAI.Formularios.MainForm.ButtonViewDetails_Click(Object sender, EventArgs e) in C:\Users\Enrique\source\repos\PROYECTO_HYUNDAI\PROYECTO_HYUNDAI\Formularios\MainForm.cs:line 64
+2024-04-07 14:47:29 - Error: System.InvalidCastException: Unable to cast object of type 'System.Windows.Forms.TabControl' to type 'System.Windows.Forms.Button'.
+   at PROYECTO_HYUNDAI.Formularios.MainForm.ButtonViewDetails_Click(Object sender, EventArgs e) in C:\Users\Enrique\source\repos\PROYECTO_HYUNDAI\PROYECTO_HYUNDAI\Formularios\MainForm.cs:line 64
+2024-04-07 14:51:27 - Error: System.InvalidCastException: Unable to cast object of type 'System.Windows.Forms.TabControl' to type 'System.Windows.Forms.Button'.
+   at PROYECTO_HYUNDAI.Formularios.MainForm.ButtonViewDetails_Click(Object sender, EventArgs e) in C:\Users\Enrique\source\repos\PROYECTO_HYUNDAI\PROYECTO_HYUNDAI\Formularios\MainForm.cs:line 64
+2024-04-07 15:09:40 - Error: System.InvalidCastException: Unable to cast object of type 'System.Windows.Forms.TabControl' to type 'System.Windows.Forms.Button'.
+   at PROYECTO_HYUNDAI.Formularios.MainForm.ButtonViewDetails_Click(Object sender, EventArgs e) in C:\Users\Enrique\source\repos\PROYECTO_HYUNDAI\PROYECTO_HYUNDAI\Formularios\MainForm.cs:line 71
+2024-04-07 15:11:36 - Error: System.InvalidCastException: Unable to cast object of type 'System.Windows.Forms.TabControl' to type 'System.Windows.Forms.Button'.
+   at PROYECTO_HYUNDAI.Formularios.MainForm.ButtonViewDetails_Click(Object sender, EventArgs e) in C:\Users\Enrique\source\repos\PROYECTO_HYUNDAI\PROYECTO_HYUNDAI\Formularios\MainForm.cs:line 71
+2024-04-07 15:19:46 - Error: System.InvalidCastException: Unable to cast object of type 'System.Windows.Forms.TabControl' to type 'System.Windows.Forms.Button'.
+   at PROYECTO_HYUNDAI.Formularios.MainForm.ButtonViewDetails_Click(Object sender, EventArgs e) in C:\Users\Enrique\source\repos\PROYECTO_HYUNDAI\PROYECTO_HYUNDAI\Formularios\MainForm.cs:line 71
+2024-04-07 15:19:47 - Error: System.InvalidCastException: Unable to cast object of type 'System.Windows.Forms.TabControl' to type 'System.Windows.Forms.Button'.
+   at PROYECTO_HYUNDAI.Formularios.MainForm.ButtonViewDetails_Click(Object sender, EventArgs e) in C:\Users\Enrique\source\repos\PROYECTO_HYUNDAI\PROYECTO_HYUNDAI\Formularios\MainForm.cs:line 71
+2024-04-07 15:21:49 - Error: System.InvalidCastException: Unable to cast object of type 'System.Windows.Forms.TabControl' to type 'System.Windows.Forms.Button'.
+   at PROYECTO_HYUNDAI.Formularios.MainForm.ButtonViewDetails_Click(Object sender, EventArgs e) in C:\Users\Enrique\source\repos\PROYECTO_HYUNDAI\PROYECTO_HYUNDAI\Formularios\MainForm.cs:line 49
+2024-04-07 15:21:53 - Error: System.InvalidCastException: Unable to cast object of type 'System.Windows.Forms.TabControl' to type 'System.Windows.Forms.Button'.
+   at PROYECTO_HYUNDAI.Formularios.MainForm.ButtonViewDetails_Click(Object sender, EventArgs e) in C:\Users\Enrique\source\repos\PROYECTO_HYUNDAI\PROYECTO_HYUNDAI\Formularios\MainForm.cs:line 49
+2024-04-07 15:28:10 - Error: System.InvalidCastException: Unable to cast object of type 'System.Windows.Forms.TabControl' to type 'System.Windows.Forms.Button'.
+   at PROYECTO_HYUNDAI.Formularios.MainForm.ButtonViewDetails_Click(Object sender, EventArgs e) in C:\Users\Enrique\source\repos\PROYECTO_HYUNDAI\PROYECTO_HYUNDAI\Formularios\MainForm.cs:line 49
+2024-04-07 15:29:28 - Error: Error al convertir el Tag del botón a tipo IApp: Unable to cast object of type 'System.Windows.Forms.TabControl' to type 'System.Windows.Forms.Button'.
+2024-04-07 15:33:03 - Error: Error al convertir el Tag del botón a tipo IApp: Unable to cast object of type 'System.Windows.Forms.TabControl' to type 'System.Windows.Forms.Button'.
+2024-04-07 15:33:08 - Error: Error al convertir el Tag del botón a tipo IApp: Unable to cast object of type 'System.Windows.Forms.TabControl' to type 'System.Windows.Forms.Button'.
+2024-04-07 15:40:45 - Error: Error al convertir el Tag del botón a tipo IApp: Unable to cast object of type 'System.Windows.Forms.TabControl' to type 'System.Windows.Forms.Button'.
+2024-04-07 16:00:11 - Error: Error al convertir el Tag del botón a tipo IApp: Unable to cast object of type 'System.Windows.Forms.TabControl' to type 'System.Windows.Forms.Button'.
+2024-04-07 16:00:16 - Error: Error al convertir el Tag del botón a tipo IApp: Unable to cast object of type 'System.Windows.Forms.TabControl' to type 'System.Windows.Forms.Button'.
+2024-04-07 16:09:21 - Error: Error al convertir el Tag del botón a tipo IApp: Unable to cast object of type 'System.Windows.Forms.TabControl' to type 'System.Windows.Forms.Button'.
+2024-04-07 16:11:45 - Error: Error al convertir el Tag del botón a tipo IApp: Unable to cast object of type 'System.Windows.Forms.TabControl' to type 'System.Windows.Forms.Button'.
+2024-04-07 16:12:53 - Error: Error al convertir el Tag del botón a tipo IApp: Unable to cast object of type 'System.Windows.Forms.TabControl' to type 'System.Windows.Forms.Button'.
+2024-04-07 16:15:31 - Error: Error al convertir el Tag del botón a tipo IApp: Unable to cast object of type 'System.Windows.Forms.TabControl' to type 'System.Windows.Forms.Button'.
+2024-04-07 16:17:15 - Error: Error al convertir el Tag del botón a tipo IApp: Unable to cast object of type 'System.Windows.Forms.TabControl' to type 'System.Windows.Forms.Button'.
+2024-04-07 16:18:14 - Error: Error al convertir el Tag del botón a tipo IApp: Unable to cast object of type 'System.Windows.Forms.TabControl' to type 'System.Windows.Forms.Button'.
+2024-04-07 16:19:29 - Error: Error al convertir el Tag del botón a tipo IApp: Unable to cast object of type 'System.Windows.Forms.TabControl' to type 'System.Windows.Forms.Button'.
+2024-04-07 16:20:03 - Error: Error al convertir el Tag del botón a tipo IApp: Unable to cast object of type 'System.Windows.Forms.TabControl' to type 'System.Windows.Forms.Button'.
+2024-04-07 16:20:26 - Error: Error al convertir el Tag del botón a tipo IApp: Unable to cast object of type 'System.Windows.Forms.TabControl' to type 'System.Windows.Forms.Button'.
+2024-04-07 16:22:42 - Error: Error al convertir el Tag del botón a tipo IApp: Unable to cast object of type 'System.Windows.Forms.TabControl' to type 'System.Windows.Forms.Button'.
+2024-04-07 16:23:11 - Error: Error al convertir el Tag del botón a tipo IApp: Unable to cast object of type 'System.Windows.Forms.TabControl' to type 'System.Windows.Forms.Button'.
+2024-04-07 16:24:58 - Error: Error al convertir el Tag del botón a tipo IApp: Unable to cast object of type 'System.Windows.Forms.TabControl' to type 'System.Windows.Forms.Button'.
+2024-04-07 16:59:14 - Error: Error al convertir el Tag del botón a tipo IApp: Unable to cast object of type 'System.Windows.Forms.TabControl' to type 'System.Windows.Forms.Button'.
+2024-04-07 17:11:27 - Error: Error al convertir el Tag del botón a tipo IApp: Unable to cast object of type 'System.Windows.Forms.TabControl' to type 'System.Windows.Forms.Button'.
+2024-04-07 17:12:20 - Error: Error al convertir el Tag del botón a tipo IApp: Unable to cast object of type 'System.Windows.Forms.TabControl' to type 'System.Windows.Forms.Button'.
+2024-04-07 17:15:26 - Error: Error al convertir el Tag del botón a tipo IApp: Unable to cast object of type 'System.Windows.Forms.TabControl' to type 'System.Windows.Forms.Button'.
+2024-04-07 17:17:44 - Error: Error al convertir el Tag del botón a tipo IApp: Unable to cast object of type 'System.Windows.Forms.TabControl' to type 'System.Windows.Forms.Button'.
+2024-04-07 17:44:31 - Error: Error al convertir el Tag del botón a tipo IApp: Unable to cast object of type 'System.Windows.Forms.TabControl' to type 'System.Windows.Forms.Button'.
+2024-04-07 17:47:30 - Error: Error al convertir el Tag del botón a tipo IApp: Unable to cast object of type 'System.Windows.Forms.TabControl' to type 'System.Windows.Forms.Button'.
+2024-04-07 17:47:55 - Error: Error al convertir el Tag del botón a tipo IApp: Unable to cast object of type 'System.Windows.Forms.TabControl' to type 'System.Windows.Forms.Button'.
+2024-04-07 18:26:13 - Error: Error al convertir el Tag del botón a tipo IApp: Unable to cast object of type 'System.Windows.Forms.TabControl' to type 'System.Windows.Forms.Button'.
+2024-04-07 18:27:52 - Error: Error al convertir el Tag del botón a tipo IApp: Unable to cast object of type 'System.Windows.Forms.TabControl' to type 'System.Windows.Forms.Button'.
+2024-04-07 18:33:09 - Error: Error al convertir el Tag del botón a tipo IApp: Unable to cast object of type 'System.Windows.Forms.TabControl' to type 'System.Windows.Forms.Button'.
+2024-04-07 18:33:49 - Error: Error al convertir el Tag del botón a tipo IApp: Unable to cast object of type 'System.Windows.Forms.TabControl' to type 'System.Windows.Forms.Button'.
+2024-04-07 18:36:11 - Error: Error al convertir el Tag del botón a tipo IApp: Unable to cast object of type 'System.Windows.Forms.TabControl' to type 'System.Windows.Forms.Button'.
+2024-04-07 18:41:05 - Error: Error al convertir el Tag del botón a tipo IApp: Unable to cast object of type 'System.Windows.Forms.TabControl' to type 'System.Windows.Forms.Button'.
+2024-04-07 18:49:29 - Error: Error al convertir el Tag del botón a tipo IApp: Unable to cast object of type 'System.Windows.Forms.TabControl' to type 'System.Windows.Forms.Button'.
+2024-04-07 18:51:06 - Error: Error al convertir el Tag del botón a tipo IApp: Unable to cast object of type 'System.Windows.Forms.TabControl' to type 'System.Windows.Forms.Button'.
+2024-04-07 18:59:17 - Error: Error al convertir el Tag del botón a tipo IApp: Unable to cast object of type 'System.Windows.Forms.TabControl' to type 'System.Windows.Forms.Button'.
+2024-04-07 19:04:09 - Error: Error al convertir el Tag del botón a tipo IApp: Unable to cast object of type 'System.Windows.Forms.TabControl' to type 'System.Windows.Forms.Button'.

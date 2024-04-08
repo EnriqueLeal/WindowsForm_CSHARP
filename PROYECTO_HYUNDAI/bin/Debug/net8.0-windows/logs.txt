@@ -1,0 +1,4 @@
+2024-04-07 10:29:36 - Error: System.InvalidCastException: Unable to cast object of type 'System.Windows.Forms.TabControl' to type 'System.Windows.Forms.Button'.
+   at PROYECTO_HYUNDAI.Formularios.MainForm.ButtonViewDetails_Click(Object sender, EventArgs e) in C:\Users\Enrique\source\repos\PROYECTO_HYUNDAI\PROYECTO_HYUNDAI\Formularios\MainForm.cs:line 66
+2024-04-07 10:30:25 - Error: System.InvalidCastException: Unable to cast object of type 'System.Windows.Forms.TabControl' to type 'System.Windows.Forms.Button'.
+   at PROYECTO_HYUNDAI.Formularios.MainForm.ButtonViewDetails_Click(Object sender, EventArgs e) in C:\Users\Enrique\source\repos\PROYECTO_HYUNDAI\PROYECTO_HYUNDAI\Formularios\MainForm.cs:line 66

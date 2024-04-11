@@ -29,6 +29,7 @@
         private void InitializeComponent()
         {
             panel1 = new Panel();
+            TxtBoxUsuario = new TextBox();
             TxtBoxID = new TextBox();
             btnGuardar = new Button();
             lblActivo = new Label();
@@ -48,6 +49,7 @@
             // 
             // panel1
             // 
+            panel1.Controls.Add(TxtBoxUsuario);
             panel1.Controls.Add(TxtBoxID);
             panel1.Controls.Add(btnGuardar);
             panel1.Controls.Add(lblActivo);
@@ -65,15 +67,20 @@
             panel1.Name = "panel1";
             panel1.Size = new Size(761, 411);
             panel1.TabIndex = 0;
-            panel1.Paint += panel1_Paint;
+            // 
+            // TxtBoxUsuario
+            // 
+            TxtBoxUsuario.Location = new Point(510, 31);
+            TxtBoxUsuario.Name = "TxtBoxUsuario";
+            TxtBoxUsuario.Size = new Size(125, 27);
+            TxtBoxUsuario.TabIndex = 13;
             // 
             // TxtBoxID
             // 
-            TxtBoxID.Location = new Point(345, 102);
+            TxtBoxID.Location = new Point(356, 98);
             TxtBoxID.Name = "TxtBoxID";
             TxtBoxID.Size = new Size(125, 27);
             TxtBoxID.TabIndex = 12;
-            TxtBoxID.Visible = false;
             // 
             // btnGuardar
             // 
@@ -120,7 +127,6 @@
             lblAp_paterno.Size = new Size(120, 20);
             lblAp_paterno.TabIndex = 7;
             lblAp_paterno.Text = "Apellido Paterno";
-            lblAp_paterno.Click += label1_Click_1;
             // 
             // lblNombre
             // 
@@ -130,7 +136,6 @@
             lblNombre.Size = new Size(64, 20);
             lblNombre.TabIndex = 6;
             lblNombre.Text = "Nombre";
-            lblNombre.Click += label1_Click;
             // 
             // TxtBoxAp_materno
             // 
@@ -145,7 +150,6 @@
             TxtBoxActivo.Name = "TxtBoxActivo";
             TxtBoxActivo.Size = new Size(125, 27);
             TxtBoxActivo.TabIndex = 4;
-            TxtBoxActivo.KeyPress += TxtBoxActivo_KeyPress;
             // 
             // TxtBoxAp_paterno
             // 
@@ -209,5 +213,6 @@
         private Label lblActivo;
         private Button btnGuardar;
         private TextBox TxtBoxID;
+        private TextBox TxtBoxUsuario;
     }
 }

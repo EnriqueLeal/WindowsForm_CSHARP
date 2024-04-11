@@ -1,0 +1,78 @@
+# Archivos generados por Visual Studio
+.vs/
+bin/
+obj/
+
+# Archivos de compilación
+*.exe
+*.dll
+*.pdb
+*.user
+*.aps
+*.pch
+*.vspscc
+*_i.c
+*_p.c
+*.ncb
+*.suo
+*.tlb
+*.tlh
+*.bak
+*.cache
+*.ilk
+*.log
+*.lib
+*.sbr
+*.sdf
+*.opensdf
+*.unsuccessfulbuild
+ipch/
+[Bb]in/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+[Ee][Xx][Ee]/
+[Tt]humbs.db
+[Tt]est[Rr]esult*
+[Bb]uild[Ll]og.*
+*.dbmdl
+Generated_Code/
+
+# Visual Studio Code
+.vscode/
+*.code-workspace
+
+# Paquetes de NuGet
+packages/
+*.nupkg
+*.paket/paket-files/
+*.paket/paket-files/
+
+# Respaldo de archivos de texto
+*.bak
+
+# Herramientas de análisis de código
+*.swp
+
+# Archivos de configuración
+*.idea/
+*.sln.iml
+*.iml
+.idea/
+*.suo
+*.user
+*.log
+
+# Carpetas y archivos de macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+.ResourceFork
+.Spotlight-V100
+.Trashes
+__MACOSX/

@@ -19,7 +19,7 @@ BEGIN
 
     BEGIN TRY
         -- Seleccionar empleados activos
-        IF(@ID > 1)
+        IF(@ID >= 1)
         BEGIN
             UPDATE Empleados
             SET Nombre = @Nombre, ApellidoPaterno = @Ap_paterno, ApellidoMaterno = @Ap_materno, Cargo = @Cargo, Activo = @Activo
@@ -50,6 +50,54 @@ EXEC UpdateEmpleados 1,'','','','','';
 
 
 
-SELECT *
-FROM Empleados;
+-- 2. Actualizar la tabla de empleados
+ALTER TABLE Empleados
+ADD UsuarioId INT,
+CONSTRAINT FK_Empleados_Usuarios FOREIGN KEY (UsuarioId) REFERENCES Usuarios(ID);
 
+-- 3. Establecer la relación uno a uno entre Empleados y Usuarios
+ALTER TABLE Usuarios
+ADD EmpleadoId INT,
+CONSTRAINT FK_Usuarios_Empleados FOREIGN KEY (EmpleadoId) REFERENCES Empleados(Id);
+
+
+--SELECT *
+--FROM 
+--UPDATE Empleados
+--SET UsuarioID = 1
+--WHERE Id=1
+
+
+--SELECT *
+--FROM 
+--UPDATE Usuarios
+--SET EmpleadoId = 1
+
+
+
+ALTER PROCEDURE GetEmpleados
+AS
+BEGIN
+    SET NOCOUNT ON;
+
+    BEGIN TRY
+        -- Seleccionar empleados activos
+        SELECT E.Id, E.Nombre, E.ApellidoPaterno, E.ApellidoMaterno, E.Cargo, E.Activo, USR.Usuario
+        FROM Empleados E
+        INNER JOIN Usuarios USR ON E.Id = USR.EmpleadoId
+        WHERE Activo = 1;
+    END TRY
+    BEGIN CATCH
+        -- Capturar y manejar errores
+        DECLARE @ErrorMessage NVARCHAR(MAX);
+        SET @ErrorMessage =  'Error al obtener empleados activos: ' + ERROR_MESSAGE();
+        THROW 50000,  @ErrorMessage, 1;
+    END CATCH
+END;
+
+
+
+SELECT E.Id, E.Nombre, E.ApellidoPaterno, E.ApellidoMaterno, E.Cargo, E.Activo, USR.Usuario
+        FROM Empleados E
+        INNER JOIN Usuarios USR ON E.Id = USR.EmpleadoId
+        WHERE Activo = 1;

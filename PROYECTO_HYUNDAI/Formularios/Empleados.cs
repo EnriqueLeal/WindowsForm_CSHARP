@@ -39,6 +39,7 @@ namespace PROYECTO_HYUNDAI.Formularios
                     TxtBoxAp_materno.Text = empleado.ApellidoMaterno;
                     TxtBoxCargo.Text = empleado.Cargo;
                     TxtBoxID.Text = empleado.Id.ToString();
+                    TxtBoxUsuario.Text = empleado.Usuario.ToString();
                     btnGuardar.Text = "Actualizar";
 
 

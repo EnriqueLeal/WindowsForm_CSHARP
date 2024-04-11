@@ -23,6 +23,7 @@ namespace PROYECTO_HYUNDAI.Services
         public string ApellidoMaterno { get; set; }
         public string Cargo { get; set; }
         public int Activo { get; set; }
+        public string Usuario { get; set; }
     }
 
 
@@ -112,7 +113,8 @@ namespace PROYECTO_HYUNDAI.Services
                                     ApellidoPaterno = Convert.ToString(reader["ApellidoPaterno"]),
                                     ApellidoMaterno = Convert.ToString(reader["ApellidoMaterno"]),
                                     Cargo = Convert.ToString(reader["Cargo"]),
-                                    Activo = Convert.ToInt32(reader["Activo"])
+                                    Activo = Convert.ToInt32(reader["Activo"]),
+                                    Usuario = Convert.ToString(reader["Usuario"])
                                 };
 
                                 // Agregar el empleado a la lista

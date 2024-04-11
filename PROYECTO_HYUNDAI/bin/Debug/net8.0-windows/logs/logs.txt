@@ -76,3 +76,47 @@
 2024-04-07 18:51:06 - Error: Error al convertir el Tag del botón a tipo IApp: Unable to cast object of type 'System.Windows.Forms.TabControl' to type 'System.Windows.Forms.Button'.
 2024-04-07 18:59:17 - Error: Error al convertir el Tag del botón a tipo IApp: Unable to cast object of type 'System.Windows.Forms.TabControl' to type 'System.Windows.Forms.Button'.
 2024-04-07 19:04:09 - Error: Error al convertir el Tag del botón a tipo IApp: Unable to cast object of type 'System.Windows.Forms.TabControl' to type 'System.Windows.Forms.Button'.
+2024-04-10 19:00:54 - Error: Error al convertir el Tag del botón a tipo IApp: Unable to cast object of type 'System.Windows.Forms.TabControl' to type 'System.Windows.Forms.Button'.
+2024-04-10 19:01:50 - Error: Error al convertir el Tag del botón a tipo IApp: Unable to cast object of type 'System.Windows.Forms.TabControl' to type 'System.Windows.Forms.Button'.
+2024-04-10 19:03:24 - Error: Error al convertir el Tag del botón a tipo IApp: Unable to cast object of type 'System.Windows.Forms.TabControl' to type 'System.Windows.Forms.Button'.
+2024-04-10 19:11:17 - Error: Error al convertir el Tag del botón a tipo IApp: Unable to cast object of type 'System.Windows.Forms.TabControl' to type 'System.Windows.Forms.Button'.
+2024-04-10 19:11:21 - Error: System.MissingMethodException: Cannot dynamically create an instance of type 'PROYECTO_HYUNDAI.Formularios.Empleados'. Reason: No parameterless constructor defined.
+   at System.RuntimeType.ActivatorCache..ctor(RuntimeType rt)
+   at System.RuntimeType.CreateInstanceDefaultCtor(Boolean publicOnly, Boolean wrapExceptions)
+   at PROYECTO_HYUNDAI.Formularios.MainForm.ButtonViewDetails_Click(Object sender, EventArgs e) in C:\Users\Enrique\source\repos\PROYECTO_HYUNDAI\WindowsForm_C-\PROYECTO_HYUNDAI\Formularios\MainForm.cs:line 61
+2024-04-10 19:11:23 - Error: Error al convertir el Tag del botón a tipo IApp: Unable to cast object of type 'System.Windows.Forms.TabControl' to type 'System.Windows.Forms.Button'.
+2024-04-10 19:11:30 - Error: System.MissingMethodException: Cannot dynamically create an instance of type 'PROYECTO_HYUNDAI.Formularios.Empleados'. Reason: No parameterless constructor defined.
+   at System.RuntimeType.ActivatorCache..ctor(RuntimeType rt)
+   at System.RuntimeType.CreateInstanceDefaultCtor(Boolean publicOnly, Boolean wrapExceptions)
+   at PROYECTO_HYUNDAI.Formularios.MainForm.ButtonViewDetails_Click(Object sender, EventArgs e) in C:\Users\Enrique\source\repos\PROYECTO_HYUNDAI\WindowsForm_C-\PROYECTO_HYUNDAI\Formularios\MainForm.cs:line 61
+2024-04-10 19:13:13 - Error: Error al convertir el Tag del botón a tipo IApp: Unable to cast object of type 'System.Windows.Forms.TabControl' to type 'System.Windows.Forms.Button'.
+2024-04-10 19:13:23 - Error: System.MissingMethodException: Cannot dynamically create an instance of type 'PROYECTO_HYUNDAI.Formularios.Empleados'. Reason: No parameterless constructor defined.
+   at System.RuntimeType.ActivatorCache..ctor(RuntimeType rt)
+   at System.RuntimeType.CreateInstanceDefaultCtor(Boolean publicOnly, Boolean wrapExceptions)
+   at PROYECTO_HYUNDAI.Formularios.MainForm.ButtonViewDetails_Click(Object sender, EventArgs e) in C:\Users\Enrique\source\repos\PROYECTO_HYUNDAI\WindowsForm_C-\PROYECTO_HYUNDAI\Formularios\MainForm.cs:line 61
+2024-04-10 19:13:28 - Error: System.MissingMethodException: Cannot dynamically create an instance of type 'PROYECTO_HYUNDAI.Formularios.Empleados'. Reason: No parameterless constructor defined.
+   at System.RuntimeType.ActivatorCache..ctor(RuntimeType rt)
+   at System.RuntimeType.CreateInstanceDefaultCtor(Boolean publicOnly, Boolean wrapExceptions)
+   at PROYECTO_HYUNDAI.Formularios.MainForm.ButtonViewDetails_Click(Object sender, EventArgs e) in C:\Users\Enrique\source\repos\PROYECTO_HYUNDAI\WindowsForm_C-\PROYECTO_HYUNDAI\Formularios\MainForm.cs:line 61
+2024-04-10 19:14:02 - Error: Error al convertir el Tag del botón a tipo IApp: Unable to cast object of type 'System.Windows.Forms.TabControl' to type 'System.Windows.Forms.Button'.
+2024-04-10 19:14:04 - Error: Error al convertir el Tag del botón a tipo IApp: Unable to cast object of type 'System.Windows.Forms.TabControl' to type 'System.Windows.Forms.Button'.
+2024-04-10 19:14:07 - Error: System.MissingMethodException: Cannot dynamically create an instance of type 'PROYECTO_HYUNDAI.Formularios.Empleados'. Reason: No parameterless constructor defined.
+   at System.RuntimeType.ActivatorCache..ctor(RuntimeType rt)
+   at System.RuntimeType.CreateInstanceDefaultCtor(Boolean publicOnly, Boolean wrapExceptions)
+   at PROYECTO_HYUNDAI.Formularios.MainForm.ButtonViewDetails_Click(Object sender, EventArgs e) in C:\Users\Enrique\source\repos\PROYECTO_HYUNDAI\WindowsForm_C-\PROYECTO_HYUNDAI\Formularios\MainForm.cs:line 61
+2024-04-10 19:16:54 - Error: Error al convertir el Tag del botón a tipo IApp: Unable to cast object of type 'System.Windows.Forms.TabControl' to type 'System.Windows.Forms.Button'.
+2024-04-10 19:17:12 - Error: System.MissingMethodException: Cannot dynamically create an instance of type 'PROYECTO_HYUNDAI.Formularios.Empleados'. Reason: No parameterless constructor defined.
+   at System.RuntimeType.ActivatorCache..ctor(RuntimeType rt)
+   at System.RuntimeType.CreateInstanceDefaultCtor(Boolean publicOnly, Boolean wrapExceptions)
+   at PROYECTO_HYUNDAI.Formularios.MainForm.ButtonViewDetails_Click(Object sender, EventArgs e) in C:\Users\Enrique\source\repos\PROYECTO_HYUNDAI\WindowsForm_C-\PROYECTO_HYUNDAI\Formularios\MainForm.cs:line 61
+2024-04-10 19:18:33 - Error: Error al convertir el Tag del botón a tipo IApp: Unable to cast object of type 'System.Windows.Forms.TabControl' to type 'System.Windows.Forms.Button'.
+2024-04-10 19:18:41 - Error: System.MissingMethodException: Cannot dynamically create an instance of type 'PROYECTO_HYUNDAI.Formularios.Empleados'. Reason: No parameterless constructor defined.
+   at System.RuntimeType.ActivatorCache..ctor(RuntimeType rt)
+   at System.RuntimeType.CreateInstanceDefaultCtor(Boolean publicOnly, Boolean wrapExceptions)
+   at PROYECTO_HYUNDAI.Formularios.MainForm.ButtonViewDetails_Click(Object sender, EventArgs e) in C:\Users\Enrique\source\repos\PROYECTO_HYUNDAI\WindowsForm_C-\PROYECTO_HYUNDAI\Formularios\MainForm.cs:line 61
+2024-04-10 19:19:10 - Error: Error al convertir el Tag del botón a tipo IApp: Unable to cast object of type 'System.Windows.Forms.TabControl' to type 'System.Windows.Forms.Button'.
+2024-04-10 19:30:54 - Error: Error al convertir el Tag del botón a tipo IApp: Unable to cast object of type 'System.Windows.Forms.TabControl' to type 'System.Windows.Forms.Button'.
+2024-04-10 19:31:57 - Error: Error al convertir el Tag del botón a tipo IApp: Unable to cast object of type 'System.Windows.Forms.TabControl' to type 'System.Windows.Forms.Button'.
+2024-04-10 19:33:04 - Error: Error al convertir el Tag del botón a tipo IApp: Unable to cast object of type 'System.Windows.Forms.TabControl' to type 'System.Windows.Forms.Button'.
+2024-04-10 19:34:29 - Error: Error al convertir el Tag del botón a tipo IApp: Unable to cast object of type 'System.Windows.Forms.TabControl' to type 'System.Windows.Forms.Button'.
+2024-04-10 19:35:46 - Error: Error al convertir el Tag del botón a tipo IApp: Unable to cast object of type 'System.Windows.Forms.TabControl' to type 'System.Windows.Forms.Button'.

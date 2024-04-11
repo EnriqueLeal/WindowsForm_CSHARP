@@ -26,11 +26,15 @@ namespace PROYECTO_HYUNDAI.Formularios
                     foreach (var app in aplicaciones)
                     {
                         TabPage tabPage = new TabPage(app.Nombres);
-                        Button buttonViewDetails = new Button();
+                        tabPage.Tag = app;
+                        tabPage.Text = app.Nombres.ToString();
+                        tabPage.Click += ButtonViewDetails_Click;
+                        MessageBox.Show(app.Nombres);
+                        /*Button buttonViewDetails = new Button();
                         buttonViewDetails.Text = "Ver Detalles";
                         buttonViewDetails.Tag = app;
                         buttonViewDetails.Click += ButtonViewDetails_Click;
-                        tabPage.Controls.Add(buttonViewDetails);
+                        tabPage.Controls.Add(buttonViewDetails);*/
                         tabControlAplicaciones.TabPages.Add(tabPage);
                     }
                 }
@@ -46,7 +50,8 @@ namespace PROYECTO_HYUNDAI.Formularios
         {
             try
             {
-                Button button = (Button)sender;
+                MessageBox.Show($"{sender}");
+                TabPage button = (TabPage)sender;
                 if (button.Tag is IApp app)
                 {
                     MessageBox.Show($"Nombre de la aplicación: {app.Nombres}");
@@ -111,6 +116,11 @@ namespace PROYECTO_HYUNDAI.Formularios
         }
 
         private void tab1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void tab2_Click(object sender, EventArgs e)
         {
 
         }

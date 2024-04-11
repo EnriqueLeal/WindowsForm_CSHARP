@@ -139,3 +139,8 @@ SELECT E.Id, E.Nombre, E.ApellidoPaterno, E.ApellidoMaterno, E.Cargo, E.Activo, 
         SELECT *
         DELETE FROM Empleados
         WHERE Id = 1002
+
+
+
+    SELECT *
+    FROM Aplicaciones;

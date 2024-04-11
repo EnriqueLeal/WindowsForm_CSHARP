@@ -50,6 +50,7 @@
             tabControlAplicaciones.Controls.Add(tab1);
             tabControlAplicaciones.Controls.Add(tab2);
             tabControlAplicaciones.Location = new Point(12, 3);
+            tabControlAplicaciones.Multiline = true;
             tabControlAplicaciones.Name = "tabControlAplicaciones";
             tabControlAplicaciones.SelectedIndex = 0;
             tabControlAplicaciones.Size = new Size(764, 300);
@@ -73,8 +74,8 @@
             tab2.Padding = new Padding(3);
             tab2.Size = new Size(756, 267);
             tab2.TabIndex = 1;
-            tab2.Text = "tab2";
             tab2.UseVisualStyleBackColor = true;
+            tab2.Click += tab2_Click;
             // 
             // MainForm
             // 

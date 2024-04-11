@@ -120,3 +120,16 @@
 2024-04-10 19:33:04 - Error: Error al convertir el Tag del botón a tipo IApp: Unable to cast object of type 'System.Windows.Forms.TabControl' to type 'System.Windows.Forms.Button'.
 2024-04-10 19:34:29 - Error: Error al convertir el Tag del botón a tipo IApp: Unable to cast object of type 'System.Windows.Forms.TabControl' to type 'System.Windows.Forms.Button'.
 2024-04-10 19:35:46 - Error: Error al convertir el Tag del botón a tipo IApp: Unable to cast object of type 'System.Windows.Forms.TabControl' to type 'System.Windows.Forms.Button'.
+2024-04-10 21:34:24 - Error: Error al convertir el Tag del botón a tipo IApp: Unable to cast object of type 'System.Windows.Forms.TabControl' to type 'System.Windows.Forms.Button'.
+2024-04-10 21:39:56 - Error: Error al convertir el Tag del botón a tipo IApp: Unable to cast object of type 'System.Windows.Forms.TabControl' to type 'System.Windows.Forms.Button'.
+2024-04-10 21:49:10 - Error: Error al convertir el Tag del botón a tipo IApp: Unable to cast object of type 'System.Windows.Forms.TabControl' to type 'System.Windows.Forms.Button'.
+2024-04-10 21:50:26 - Error: Error al convertir el Tag del botón a tipo IApp: Unable to cast object of type 'System.Windows.Forms.TabControl' to type 'System.Windows.Forms.Button'.
+2024-04-10 21:55:37 - Error: Error al convertir el Tag del botón a tipo IApp: Unable to cast object of type 'System.Windows.Forms.TabControl' to type 'System.Windows.Forms.Button'.
+2024-04-10 22:00:06 - Error: Error al convertir el Tag del botón a tipo IApp: Unable to cast object of type 'System.Windows.Forms.TabControl' to type 'System.Windows.Forms.Button'.
+2024-04-10 22:01:43 - Error: Error al convertir el Tag del botón a tipo IApp: Unable to cast object of type 'System.Windows.Forms.TabControl' to type 'System.Windows.Forms.Button'.
+2024-04-10 22:04:47 - Error: Error al convertir el Tag del botón a tipo IApp: Unable to cast object of type 'System.Windows.Forms.TabControl' to type 'System.Windows.Forms.Button'.
+2024-04-10 22:09:15 - Error: Error al convertir el Tag del botón a tipo IApp: Unable to cast object of type 'System.Windows.Forms.TabControl' to type 'System.Windows.Forms.Button'.
+2024-04-10 22:17:01 - Error: Error al convertir el Tag del botón a tipo IApp: Unable to cast object of type 'System.Windows.Forms.TabControl' to type 'System.Windows.Forms.Button'.
+2024-04-10 22:19:22 - Error: Error al convertir el Tag del botón a tipo IApp: Unable to cast object of type 'System.Windows.Forms.TabControl' to type 'System.Windows.Forms.Button'.
+2024-04-10 22:19:24 - Error: Error al convertir el Tag del botón a tipo IApp: Unable to cast object of type 'System.Windows.Forms.TabControl' to type 'System.Windows.Forms.Button'.
+2024-04-10 22:19:26 - Error: Error al convertir el Tag del botón a tipo IApp: Unable to cast object of type 'System.Windows.Forms.TabControl' to type 'System.Windows.Forms.Button'.

@@ -29,6 +29,9 @@
         private void InitializeComponent()
         {
             panel1 = new Panel();
+            lblPassword = new Label();
+            TxtBoxPass = new TextBox();
+            lblUsuario = new Label();
             TxtBoxUsuario = new TextBox();
             TxtBoxID = new TextBox();
             btnGuardar = new Button();
@@ -43,12 +46,17 @@
             TxtBoxCargo = new TextBox();
             TxtBoxNombre = new TextBox();
             DataGridEmpleados = new DataGridView();
+            btnLimpiar = new Button();
             panel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)DataGridEmpleados).BeginInit();
             SuspendLayout();
             // 
             // panel1
             // 
+            panel1.Controls.Add(btnLimpiar);
+            panel1.Controls.Add(lblPassword);
+            panel1.Controls.Add(TxtBoxPass);
+            panel1.Controls.Add(lblUsuario);
             panel1.Controls.Add(TxtBoxUsuario);
             panel1.Controls.Add(TxtBoxID);
             panel1.Controls.Add(btnGuardar);
@@ -65,11 +73,37 @@
             panel1.Controls.Add(DataGridEmpleados);
             panel1.Location = new Point(12, 12);
             panel1.Name = "panel1";
-            panel1.Size = new Size(761, 411);
+            panel1.Size = new Size(848, 449);
             panel1.TabIndex = 0;
+            // 
+            // lblPassword
+            // 
+            lblPassword.AutoSize = true;
+            lblPassword.Location = new Point(641, 8);
+            lblPassword.Name = "lblPassword";
+            lblPassword.Size = new Size(70, 20);
+            lblPassword.TabIndex = 16;
+            lblPassword.Text = "Password";
+            // 
+            // TxtBoxPass
+            // 
+            TxtBoxPass.Location = new Point(642, 31);
+            TxtBoxPass.Name = "TxtBoxPass";
+            TxtBoxPass.Size = new Size(125, 27);
+            TxtBoxPass.TabIndex = 15;
+            // 
+            // lblUsuario
+            // 
+            lblUsuario.AutoSize = true;
+            lblUsuario.Location = new Point(509, 8);
+            lblUsuario.Name = "lblUsuario";
+            lblUsuario.Size = new Size(59, 20);
+            lblUsuario.TabIndex = 14;
+            lblUsuario.Text = "Usuario";
             // 
             // TxtBoxUsuario
             // 
+            TxtBoxUsuario.Enabled = false;
             TxtBoxUsuario.Location = new Point(510, 31);
             TxtBoxUsuario.Name = "TxtBoxUsuario";
             TxtBoxUsuario.Size = new Size(125, 27);
@@ -81,10 +115,11 @@
             TxtBoxID.Name = "TxtBoxID";
             TxtBoxID.Size = new Size(125, 27);
             TxtBoxID.TabIndex = 12;
+            TxtBoxID.Visible = false;
             // 
             // btnGuardar
             // 
-            btnGuardar.Location = new Point(574, 98);
+            btnGuardar.Location = new Point(510, 96);
             btnGuardar.Name = "btnGuardar";
             btnGuardar.Size = new Size(94, 29);
             btnGuardar.TabIndex = 11;
@@ -178,15 +213,25 @@
             DataGridEmpleados.Location = new Point(3, 180);
             DataGridEmpleados.Name = "DataGridEmpleados";
             DataGridEmpleados.RowHeadersWidth = 51;
-            DataGridEmpleados.Size = new Size(755, 216);
+            DataGridEmpleados.Size = new Size(832, 259);
             DataGridEmpleados.TabIndex = 0;
             DataGridEmpleados.CellContentClick += DataGridEmpleados_CellContentClick;
+            // 
+            // btnLimpiar
+            // 
+            btnLimpiar.Location = new Point(617, 98);
+            btnLimpiar.Name = "btnLimpiar";
+            btnLimpiar.Size = new Size(94, 29);
+            btnLimpiar.TabIndex = 17;
+            btnLimpiar.Text = "Limpiar";
+            btnLimpiar.UseVisualStyleBackColor = true;
+            btnLimpiar.Click += btnLimpiar_Click;
             // 
             // Empleados
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(800, 450);
+            ClientSize = new Size(872, 463);
             Controls.Add(panel1);
             Name = "Empleados";
             Text = "Empleados";
@@ -214,5 +259,9 @@
         private Button btnGuardar;
         private TextBox TxtBoxID;
         private TextBox TxtBoxUsuario;
+        private Label lblUsuario;
+        private Label lblPassword;
+        private TextBox TxtBoxPass;
+        private Button btnLimpiar;
     }
 }

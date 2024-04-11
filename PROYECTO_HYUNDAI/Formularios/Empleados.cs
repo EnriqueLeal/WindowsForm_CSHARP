@@ -40,6 +40,7 @@ namespace PROYECTO_HYUNDAI.Formularios
                     TxtBoxCargo.Text = empleado.Cargo;
                     TxtBoxID.Text = empleado.Id.ToString();
                     TxtBoxUsuario.Text = empleado.Usuario.ToString();
+                    TxtBoxPass.Text = empleado.Pass.ToString();
                     btnGuardar.Text = "Actualizar";
 
 
@@ -88,7 +89,7 @@ namespace PROYECTO_HYUNDAI.Formularios
             DataGridViewButtonColumn verDetallesColumn = new DataGridViewButtonColumn();
             verDetallesColumn.HeaderText = "Ver Detalles";
             verDetallesColumn.Name = "VerDetallesColumn";
-            verDetallesColumn.Text = "Ver Detalles";
+            verDetallesColumn.Text = "Editar";
             verDetallesColumn.UseColumnTextForButtonValue = true; // Esto es importante para mostrar texto en lugar de un botón vacío
             DataGridEmpleados.Columns.Add(verDetallesColumn);
         }
@@ -130,15 +131,30 @@ namespace PROYECTO_HYUNDAI.Formularios
         {
             try
             {
-                var Mensaje = servicio.UpdateEmpleado(Convert.ToInt32(TxtBoxID.Text), TxtBoxNombre.Text, TxtBoxAp_paterno.Text, TxtBoxAp_materno.Text, TxtBoxCargo.Text, Convert.ToInt32(TxtBoxActivo.Text));
+                const int V = 0;
+                int id = string.IsNullOrEmpty(TxtBoxID.Text) ? V : Convert.ToInt32(TxtBoxID.Text);
+                var Mensaje = servicio.UpdateEmpleado(id, TxtBoxNombre.Text, TxtBoxAp_paterno.Text, TxtBoxAp_materno.Text, TxtBoxCargo.Text, Convert.ToInt32(TxtBoxActivo.Text), TxtBoxUsuario.Text, TxtBoxPass.Text);
                 MessageBox.Show(Mensaje);
                 CargarEmpleadosEnDataGrid();
             }
-            catch(Exception ex)
+            catch (Exception ex)
             {
 
             }
-            
+
+        }
+
+        private void btnLimpiar_Click(object sender, EventArgs e)
+        {
+            TxtBoxActivo.Text = "";
+            TxtBoxNombre.Text = "";
+            TxtBoxAp_paterno.Text = "";
+            TxtBoxAp_materno.Text = "";
+            TxtBoxCargo.Text = "";
+            TxtBoxID.Text = "";
+            TxtBoxUsuario.Text = "";
+            TxtBoxPass.Text = "";
+            btnGuardar.Text = "Crear";
         }
     }
 }

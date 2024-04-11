@@ -125,3 +125,8 @@ C:\Users\Enrique\source\repos\PROYECTO_HYUNDAI\WindowsForm_C-\PROYECTO_HYUNDAI\o
 C:\Users\Enrique\source\repos\PROYECTO_HYUNDAI\WindowsForm_C-\PROYECTO_HYUNDAI\obj\Debug\net8.0-windows\PROYECTO_HYUNDAI.pdb
 C:\Users\Enrique\source\repos\PROYECTO_HYUNDAI\WindowsForm_C-\PROYECTO_HYUNDAI\obj\Debug\net8.0-windows\PROYECTO_HYUNDAI.genruntimeconfig.cache
 C:\Users\Enrique\source\repos\PROYECTO_HYUNDAI\WindowsForm_C-\PROYECTO_HYUNDAI\obj\Debug\net8.0-windows\ref\PROYECTO_HYUNDAI.dll
+C:\Users\Enrique\source\repos\PROYECTO_HYUNDAI\WindowsForm_C-\PROYECTO_HYUNDAI\bin\Debug\net8.0-windows\CONECTOR.deps.json
+C:\Users\Enrique\source\repos\PROYECTO_HYUNDAI\WindowsForm_C-\PROYECTO_HYUNDAI\bin\Debug\net8.0-windows\CONECTOR.runtimeconfig.json
+C:\Users\Enrique\source\repos\PROYECTO_HYUNDAI\WindowsForm_C-\PROYECTO_HYUNDAI\bin\Debug\net8.0-windows\CONECTOR.exe
+C:\Users\Enrique\source\repos\PROYECTO_HYUNDAI\WindowsForm_C-\PROYECTO_HYUNDAI\bin\Debug\net8.0-windows\CONECTOR.dll
+C:\Users\Enrique\source\repos\PROYECTO_HYUNDAI\WindowsForm_C-\PROYECTO_HYUNDAI\bin\Debug\net8.0-windows\CONECTOR.pdb

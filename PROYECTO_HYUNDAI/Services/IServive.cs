@@ -24,6 +24,7 @@ namespace PROYECTO_HYUNDAI.Services
         public string Cargo { get; set; }
         public int Activo { get; set; }
         public string Usuario { get; set; }
+        public string Pass {  get; set; }
     }
 
 
@@ -114,7 +115,8 @@ namespace PROYECTO_HYUNDAI.Services
                                     ApellidoMaterno = Convert.ToString(reader["ApellidoMaterno"]),
                                     Cargo = Convert.ToString(reader["Cargo"]),
                                     Activo = Convert.ToInt32(reader["Activo"]),
-                                    Usuario = Convert.ToString(reader["Usuario"])
+                                    Usuario = Convert.ToString(reader["Usuario"]),
+                                    Pass = Convert.ToString(reader["Pass"])
                                 };
 
                                 // Agregar el empleado a la lista
@@ -132,7 +134,7 @@ namespace PROYECTO_HYUNDAI.Services
             }
         }
 
-        public string UpdateEmpleado(int id, string nombre, string apellidoPaterno, string apellidoMaterno, string cargo, int activo)
+        public string UpdateEmpleado(int id, string nombre, string apellidoPaterno, string apellidoMaterno, string cargo, int activo, string usuario, string pass)
         {
             try
             {
@@ -157,6 +159,8 @@ namespace PROYECTO_HYUNDAI.Services
                         command.Parameters.AddWithValue("@Ap_materno", apellidoMaterno);
                         command.Parameters.AddWithValue("@Cargo", cargo);
                         command.Parameters.Add("@Activo", SqlDbType.Bit).Value = activoBool;
+                        command.Parameters.AddWithValue("@Usuario", usuario);
+                        command.Parameters.AddWithValue("@Pass", pass);
 
                         // Agregar parámetro de salida para el mensaje del procedimiento almacenado
                         SqlParameter mensajeParametro = new SqlParameter("@MensajeSucess", SqlDbType.NVarChar, 1000);

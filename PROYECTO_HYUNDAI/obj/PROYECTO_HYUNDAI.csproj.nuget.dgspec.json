@@ -111,6 +111,10 @@
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
           "dependencies": {
+            "FastReport.DataVisualization": {
+              "target": "Package",
+              "version": "[2024.2.0, )"
+            },
             "Microsoft.Data.SqlClient": {
               "target": "Package",
               "version": "[5.1.4, )"

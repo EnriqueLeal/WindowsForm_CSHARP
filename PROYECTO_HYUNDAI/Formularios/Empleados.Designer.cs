@@ -29,6 +29,7 @@
         private void InitializeComponent()
         {
             panel1 = new Panel();
+            btnLimpiar = new Button();
             lblPassword = new Label();
             TxtBoxPass = new TextBox();
             lblUsuario = new Label();
@@ -46,13 +47,14 @@
             TxtBoxCargo = new TextBox();
             TxtBoxNombre = new TextBox();
             DataGridEmpleados = new DataGridView();
-            btnLimpiar = new Button();
+            flowLayoutPanel1 = new FlowLayoutPanel();
             panel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)DataGridEmpleados).BeginInit();
             SuspendLayout();
             // 
             // panel1
             // 
+            panel1.Controls.Add(flowLayoutPanel1);
             panel1.Controls.Add(btnLimpiar);
             panel1.Controls.Add(lblPassword);
             panel1.Controls.Add(TxtBoxPass);
@@ -73,8 +75,19 @@
             panel1.Controls.Add(DataGridEmpleados);
             panel1.Location = new Point(12, 12);
             panel1.Name = "panel1";
-            panel1.Size = new Size(848, 449);
+            panel1.Size = new Size(1284, 449);
             panel1.TabIndex = 0;
+            panel1.Paint += panel1_Paint_1;
+            // 
+            // btnLimpiar
+            // 
+            btnLimpiar.Location = new Point(617, 98);
+            btnLimpiar.Name = "btnLimpiar";
+            btnLimpiar.Size = new Size(94, 29);
+            btnLimpiar.TabIndex = 17;
+            btnLimpiar.Text = "Limpiar";
+            btnLimpiar.UseVisualStyleBackColor = true;
+            btnLimpiar.Click += btnLimpiar_Click;
             // 
             // lblPassword
             // 
@@ -217,21 +230,18 @@
             DataGridEmpleados.TabIndex = 0;
             DataGridEmpleados.CellContentClick += DataGridEmpleados_CellContentClick;
             // 
-            // btnLimpiar
+            // flowLayoutPanel1
             // 
-            btnLimpiar.Location = new Point(617, 98);
-            btnLimpiar.Name = "btnLimpiar";
-            btnLimpiar.Size = new Size(94, 29);
-            btnLimpiar.TabIndex = 17;
-            btnLimpiar.Text = "Limpiar";
-            btnLimpiar.UseVisualStyleBackColor = true;
-            btnLimpiar.Click += btnLimpiar_Click;
+            flowLayoutPanel1.Location = new Point(854, 31);
+            flowLayoutPanel1.Name = "flowLayoutPanel1";
+            flowLayoutPanel1.Size = new Size(417, 408);
+            flowLayoutPanel1.TabIndex = 19;
             // 
             // Empleados
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(872, 463);
+            ClientSize = new Size(1321, 473);
             Controls.Add(panel1);
             Name = "Empleados";
             Text = "Empleados";
@@ -263,5 +273,6 @@
         private Label lblPassword;
         private TextBox TxtBoxPass;
         private Button btnLimpiar;
+        private FlowLayoutPanel flowLayoutPanel1;
     }
 }

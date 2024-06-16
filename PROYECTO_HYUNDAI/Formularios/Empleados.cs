@@ -1,4 +1,5 @@
-﻿using PROYECTO_HYUNDAI.Services;
+﻿using FastReport.DataVisualization.Charting;
+using PROYECTO_HYUNDAI.Services;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -18,8 +19,43 @@ namespace PROYECTO_HYUNDAI.Formularios
 
         public Empleados()
         {
-            InitializeComponent();
+            InitializeComponent();  
         }
+
+        private void InitializeChart(List<IEmpleados> empleados)
+        {
+            // Creamos un nuevo gráfico
+            Chart chart = new Chart();
+
+            // Configuramos el tamaño del gráfico
+            chart.Width = 600; // Ancho del gráfico
+            chart.Height = 400; // Alto del gráfico
+
+            // Creamos un área de datos
+            ChartArea chartArea = new ChartArea();
+            chart.ChartAreas.Add(chartArea);
+
+            // Creamos una serie de datos para el gráfico
+            Series series = new Series();
+            series.Name = "Empleados";
+
+            // Agregamos datos de empleados al gráfico
+            foreach (var empleado in empleados)
+            {
+                series.Points.AddXY(empleado.Nombre + " " + empleado.ApellidoPaterno, empleado.Id);
+            }
+
+            // Añadimos la serie al gráfico
+            chart.Series.Add(series);
+
+            // Configuramos el tipo de gráfico
+            series.ChartType = SeriesChartType.Bar;
+
+            // Agregamos el gráfico a un FlowLayoutPanel en el formulario
+            flowLayoutPanel1.Controls.Add(chart);
+        }
+
+
 
         private void DataGridEmpleados_CellContentClick(object sender, DataGridViewCellEventArgs e)
         {
@@ -59,6 +95,7 @@ namespace PROYECTO_HYUNDAI.Formularios
             {
                 // Obtener la lista de empleados desde la base de datos
                 empleados = servicio.GetEmpleados();
+                InitializeChart(empleados);
                 // Verificar si se obtuvieron empleados correctamente
                 if (empleados != null)
                 {
@@ -155,6 +192,11 @@ namespace PROYECTO_HYUNDAI.Formularios
             TxtBoxUsuario.Text = "";
             TxtBoxPass.Text = "";
             btnGuardar.Text = "Crear";
+        }
+
+        private void panel1_Paint_1(object sender, PaintEventArgs e)
+        {
+
         }
     }
 }

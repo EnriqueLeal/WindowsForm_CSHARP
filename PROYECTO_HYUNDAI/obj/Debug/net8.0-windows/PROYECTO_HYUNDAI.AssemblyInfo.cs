@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PROYECTO_HYUNDAI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+645d8a3e8159f734cae11aa42bbc76ae2c7e1cbe")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b8ace9542c0f2744d5fba0e32eb633a480669681")]
 [assembly: System.Reflection.AssemblyProductAttribute("PROYECTO_HYUNDAI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PROYECTO_HYUNDAI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

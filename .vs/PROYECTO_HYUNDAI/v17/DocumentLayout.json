@@ -3,30 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\Enrique\\source\\repos\\PROYECTO_HYUNDAI\\WindowsForm_C-\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1F7024D8-6F46-41A4-85B6-5DADCBFC43DA}|PROYECTO_HYUNDAI\\PROYECTO_HYUNDAI.csproj|c:\\users\\enrique\\source\\repos\\proyecto_hyundai\\windowsform_c-\\proyecto_hyundai\\formularios\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1F7024D8-6F46-41A4-85B6-5DADCBFC43DA}|PROYECTO_HYUNDAI\\PROYECTO_HYUNDAI.csproj|solutionrelative:proyecto_hyundai\\formularios\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1F7024D8-6F46-41A4-85B6-5DADCBFC43DA}|PROYECTO_HYUNDAI\\PROYECTO_HYUNDAI.csproj|c:\\users\\enrique\\source\\repos\\proyecto_hyundai\\windowsform_c-\\proyecto_hyundai\\formularios\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{1F7024D8-6F46-41A4-85B6-5DADCBFC43DA}|PROYECTO_HYUNDAI\\PROYECTO_HYUNDAI.csproj|solutionrelative:proyecto_hyundai\\formularios\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1F7024D8-6F46-41A4-85B6-5DADCBFC43DA}|PROYECTO_HYUNDAI\\PROYECTO_HYUNDAI.csproj|c:\\users\\enrique\\source\\repos\\proyecto_hyundai\\windowsform_c-\\proyecto_hyundai\\proyecto_hyundai.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{1F7024D8-6F46-41A4-85B6-5DADCBFC43DA}|PROYECTO_HYUNDAI\\PROYECTO_HYUNDAI.csproj|solutionrelative:proyecto_hyundai\\proyecto_hyundai.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Enrique\\source\\repos\\PROYECTO_HYUNDAI\\WindowsForm_C-\\2222.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:2222.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F64C63FE-8F7F-4822-BF3D-240346EF304F}|CONECTOR\\CONECTOR.csproj|c:\\users\\enrique\\source\\repos\\proyecto_hyundai\\windowsform_c-\\conector\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F64C63FE-8F7F-4822-BF3D-240346EF304F}|CONECTOR\\CONECTOR.csproj|solutionrelative:conector\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F64C63FE-8F7F-4822-BF3D-240346EF304F}|CONECTOR\\CONECTOR.csproj|c:\\users\\enrique\\source\\repos\\proyecto_hyundai\\windowsform_c-\\conector\\conector.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{F64C63FE-8F7F-4822-BF3D-240346EF304F}|CONECTOR\\CONECTOR.csproj|solutionrelative:conector\\conector.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1F7024D8-6F46-41A4-85B6-5DADCBFC43DA}|PROYECTO_HYUNDAI\\PROYECTO_HYUNDAI.csproj|c:\\users\\enrique\\source\\repos\\proyecto_hyundai\\windowsform_c-\\proyecto_hyundai\\formularios\\empleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1F7024D8-6F46-41A4-85B6-5DADCBFC43DA}|PROYECTO_HYUNDAI\\PROYECTO_HYUNDAI.csproj|solutionrelative:proyecto_hyundai\\formularios\\empleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -35,20 +11,32 @@
       "RelativeMoniker": "D:0:0:{1F7024D8-6F46-41A4-85B6-5DADCBFC43DA}|PROYECTO_HYUNDAI\\PROYECTO_HYUNDAI.csproj|solutionrelative:proyecto_hyundai\\formularios\\empleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1F7024D8-6F46-41A4-85B6-5DADCBFC43DA}|PROYECTO_HYUNDAI\\PROYECTO_HYUNDAI.csproj|c:\\users\\enrique\\source\\repos\\proyecto_hyundai\\windowsform_c-\\proyecto_hyundai\\services\\iservive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1F7024D8-6F46-41A4-85B6-5DADCBFC43DA}|PROYECTO_HYUNDAI\\PROYECTO_HYUNDAI.csproj|solutionrelative:proyecto_hyundai\\services\\iservive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1F7024D8-6F46-41A4-85B6-5DADCBFC43DA}|PROYECTO_HYUNDAI\\PROYECTO_HYUNDAI.csproj|c:\\users\\enrique\\source\\repos\\proyecto_hyundai\\windowsform_c-\\proyecto_hyundai\\formularios\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F7024D8-6F46-41A4-85B6-5DADCBFC43DA}|PROYECTO_HYUNDAI\\PROYECTO_HYUNDAI.csproj|solutionrelative:proyecto_hyundai\\formularios\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1F7024D8-6F46-41A4-85B6-5DADCBFC43DA}|PROYECTO_HYUNDAI\\PROYECTO_HYUNDAI.csproj|c:\\users\\enrique\\source\\repos\\proyecto_hyundai\\windowsform_c-\\proyecto_hyundai\\formularios\\empleados.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1F7024D8-6F46-41A4-85B6-5DADCBFC43DA}|PROYECTO_HYUNDAI\\PROYECTO_HYUNDAI.csproj|solutionrelative:proyecto_hyundai\\formularios\\empleados.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1F7024D8-6F46-41A4-85B6-5DADCBFC43DA}|PROYECTO_HYUNDAI\\PROYECTO_HYUNDAI.csproj|c:\\users\\enrique\\source\\repos\\proyecto_hyundai\\windowsform_c-\\proyecto_hyundai\\formularios\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1F7024D8-6F46-41A4-85B6-5DADCBFC43DA}|PROYECTO_HYUNDAI\\PROYECTO_HYUNDAI.csproj|solutionrelative:proyecto_hyundai\\formularios\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F7024D8-6F46-41A4-85B6-5DADCBFC43DA}|PROYECTO_HYUNDAI\\PROYECTO_HYUNDAI.csproj|c:\\users\\enrique\\source\\repos\\proyecto_hyundai\\windowsform_c-\\proyecto_hyundai\\services\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F7024D8-6F46-41A4-85B6-5DADCBFC43DA}|PROYECTO_HYUNDAI\\PROYECTO_HYUNDAI.csproj|solutionrelative:proyecto_hyundai\\services\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F7024D8-6F46-41A4-85B6-5DADCBFC43DA}|PROYECTO_HYUNDAI\\PROYECTO_HYUNDAI.csproj|c:\\users\\enrique\\source\\repos\\proyecto_hyundai\\windowsform_c-\\proyecto_hyundai\\formularios\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F7024D8-6F46-41A4-85B6-5DADCBFC43DA}|PROYECTO_HYUNDAI\\PROYECTO_HYUNDAI.csproj|solutionrelative:proyecto_hyundai\\formularios\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F64C63FE-8F7F-4822-BF3D-240346EF304F}|CONECTOR\\CONECTOR.csproj|c:\\users\\enrique\\source\\repos\\proyecto_hyundai\\windowsform_c-\\conector\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F64C63FE-8F7F-4822-BF3D-240346EF304F}|CONECTOR\\CONECTOR.csproj|solutionrelative:conector\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Enrique\\source\\repos\\PROYECTO_HYUNDAI\\WindowsForm_C-\\2222.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:2222.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Enrique\\source\\repos\\PROYECTO_HYUNDAI\\WindowsForm_C-\\2222.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:2222.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Enrique\\source\\repos\\PROYECTO_HYUNDAI\\WindowsForm_C-\\2222.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|ResultFrame",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:2222.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|ResultFrame"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 26,
+          "SelectedChildIndex": 23,
           "Children": [
             {
               "$type": "Bookmark",
@@ -154,67 +142,83 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 0,
+              "Title": "Empleados.cs",
+              "DocumentMoniker": "C:\\Users\\Enrique\\source\\repos\\PROYECTO_HYUNDAI\\WindowsForm_C-\\PROYECTO_HYUNDAI\\Formularios\\Empleados.cs",
+              "RelativeDocumentMoniker": "PROYECTO_HYUNDAI\\Formularios\\Empleados.cs",
+              "ToolTip": "C:\\Users\\Enrique\\source\\repos\\PROYECTO_HYUNDAI\\WindowsForm_C-\\PROYECTO_HYUNDAI\\Formularios\\Empleados.cs",
+              "RelativeToolTip": "PROYECTO_HYUNDAI\\Formularios\\Empleados.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T20:11:11.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Enrique\\source\\repos\\PROYECTO_HYUNDAI\\WindowsForm_C-\\PROYECTO_HYUNDAI\\Formularios\\MainForm.Designer.cs",
+              "RelativeDocumentMoniker": "PROYECTO_HYUNDAI\\Formularios\\MainForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Enrique\\source\\repos\\PROYECTO_HYUNDAI\\WindowsForm_C-\\PROYECTO_HYUNDAI\\Formularios\\MainForm.Designer.cs",
+              "RelativeToolTip": "PROYECTO_HYUNDAI\\Formularios\\MainForm.Designer.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAIAwwFEAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T20:03:20.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Empleados.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\Enrique\\source\\repos\\PROYECTO_HYUNDAI\\WindowsForm_C-\\PROYECTO_HYUNDAI\\Formularios\\Empleados.cs",
               "RelativeDocumentMoniker": "PROYECTO_HYUNDAI\\Formularios\\Empleados.cs",
               "ToolTip": "C:\\Users\\Enrique\\source\\repos\\PROYECTO_HYUNDAI\\WindowsForm_C-\\PROYECTO_HYUNDAI\\Formularios\\Empleados.cs [Dise\u00F1o]",
               "RelativeToolTip": "PROYECTO_HYUNDAI\\Formularios\\Empleados.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-08T00:50:40.018Z",
+              "WhenOpened": "2024-04-14T20:01:57.002Z",
               "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "2222.sql ",
-              "DocumentMoniker": "C:\\Users\\Enrique\\source\\repos\\PROYECTO_HYUNDAI\\WindowsForm_C-\\2222.sql",
-              "RelativeDocumentMoniker": "2222.sql",
-              "ToolTip": "2222.sql ",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2024-04-08T00:34:54.699Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "MainForm.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\Enrique\\source\\repos\\PROYECTO_HYUNDAI\\WindowsForm_C-\\PROYECTO_HYUNDAI\\Formularios\\MainForm.cs",
               "RelativeDocumentMoniker": "PROYECTO_HYUNDAI\\Formularios\\MainForm.cs",
               "ToolTip": "C:\\Users\\Enrique\\source\\repos\\PROYECTO_HYUNDAI\\WindowsForm_C-\\PROYECTO_HYUNDAI\\Formularios\\MainForm.cs [Dise\u00F1o]",
               "RelativeToolTip": "PROYECTO_HYUNDAI\\Formularios\\MainForm.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-11T01:12:36.199Z",
+              "WhenOpened": "2024-04-14T20:01:32.98Z",
               "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\Enrique\\source\\repos\\PROYECTO_HYUNDAI\\WindowsForm_C-\\PROYECTO_HYUNDAI\\Services\\Login.cs",
+              "RelativeDocumentMoniker": "PROYECTO_HYUNDAI\\Services\\Login.cs",
+              "ToolTip": "C:\\Users\\Enrique\\source\\repos\\PROYECTO_HYUNDAI\\WindowsForm_C-\\PROYECTO_HYUNDAI\\Services\\Login.cs",
+              "RelativeToolTip": "PROYECTO_HYUNDAI\\Services\\Login.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADMAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T23:43:52.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "MainForm.cs",
               "DocumentMoniker": "C:\\Users\\Enrique\\source\\repos\\PROYECTO_HYUNDAI\\WindowsForm_C-\\PROYECTO_HYUNDAI\\Formularios\\MainForm.cs",
               "RelativeDocumentMoniker": "PROYECTO_HYUNDAI\\Formularios\\MainForm.cs",
               "ToolTip": "C:\\Users\\Enrique\\source\\repos\\PROYECTO_HYUNDAI\\WindowsForm_C-\\PROYECTO_HYUNDAI\\Formularios\\MainForm.cs",
               "RelativeToolTip": "PROYECTO_HYUNDAI\\Formularios\\MainForm.cs",
-              "ViewState": "AQIAABwAAAAAAAAAAAAAADEAAAAOAAAA",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAABIAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-11T01:12:40.823Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Empleados.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\Enrique\\source\\repos\\PROYECTO_HYUNDAI\\WindowsForm_C-\\PROYECTO_HYUNDAI\\Formularios\\Empleados.Designer.cs",
-              "RelativeDocumentMoniker": "PROYECTO_HYUNDAI\\Formularios\\Empleados.Designer.cs",
-              "ToolTip": "C:\\Users\\Enrique\\source\\repos\\PROYECTO_HYUNDAI\\WindowsForm_C-\\PROYECTO_HYUNDAI\\Formularios\\Empleados.Designer.cs",
-              "RelativeToolTip": "PROYECTO_HYUNDAI\\Formularios\\Empleados.Designer.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-11T01:08:36.47Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Enrique\\source\\repos\\PROYECTO_HYUNDAI\\WindowsForm_C-\\CONECTOR\\Program.cs",
               "RelativeDocumentMoniker": "CONECTOR\\Program.cs",
@@ -227,54 +231,14 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "PROYECTO_HYUNDAI.csproj",
-              "DocumentMoniker": "C:\\Users\\Enrique\\source\\repos\\PROYECTO_HYUNDAI\\WindowsForm_C-\\PROYECTO_HYUNDAI\\PROYECTO_HYUNDAI.csproj",
-              "RelativeDocumentMoniker": "PROYECTO_HYUNDAI\\PROYECTO_HYUNDAI.csproj",
-              "ToolTip": "C:\\Users\\Enrique\\source\\repos\\PROYECTO_HYUNDAI\\WindowsForm_C-\\PROYECTO_HYUNDAI\\PROYECTO_HYUNDAI.csproj",
-              "RelativeToolTip": "PROYECTO_HYUNDAI\\PROYECTO_HYUNDAI.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-04-11T04:23:11.35Z",
+              "DocumentIndex": 7,
+              "Title": "2222.sql ",
+              "DocumentMoniker": "C:\\Users\\Enrique\\source\\repos\\PROYECTO_HYUNDAI\\WindowsForm_C-\\2222.sql",
+              "RelativeDocumentMoniker": "2222.sql",
+              "ToolTip": "2222.sql ",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-04-08T00:34:54.699Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Empleados.cs",
-              "DocumentMoniker": "C:\\Users\\Enrique\\source\\repos\\PROYECTO_HYUNDAI\\WindowsForm_C-\\PROYECTO_HYUNDAI\\Formularios\\Empleados.cs",
-              "RelativeDocumentMoniker": "PROYECTO_HYUNDAI\\Formularios\\Empleados.cs",
-              "ToolTip": "C:\\Users\\Enrique\\source\\repos\\PROYECTO_HYUNDAI\\WindowsForm_C-\\PROYECTO_HYUNDAI\\Formularios\\Empleados.cs",
-              "RelativeToolTip": "PROYECTO_HYUNDAI\\Formularios\\Empleados.cs",
-              "ViewState": "AQIAADMAAAAAAAAAAAAAADkAAAAPAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-08T00:50:48.73Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "CONECTOR",
-              "DocumentMoniker": "C:\\Users\\Enrique\\source\\repos\\PROYECTO_HYUNDAI\\WindowsForm_C-\\CONECTOR\\CONECTOR.csproj",
-              "RelativeDocumentMoniker": "CONECTOR\\CONECTOR.csproj",
-              "ToolTip": "C:\\Users\\Enrique\\source\\repos\\PROYECTO_HYUNDAI\\WindowsForm_C-\\CONECTOR\\CONECTOR.csproj",
-              "RelativeToolTip": "CONECTOR\\CONECTOR.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-04-11T04:32:01.945Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "IServive.cs",
-              "DocumentMoniker": "C:\\Users\\Enrique\\source\\repos\\PROYECTO_HYUNDAI\\WindowsForm_C-\\PROYECTO_HYUNDAI\\Services\\IServive.cs",
-              "RelativeDocumentMoniker": "PROYECTO_HYUNDAI\\Services\\IServive.cs",
-              "ToolTip": "C:\\Users\\Enrique\\source\\repos\\PROYECTO_HYUNDAI\\WindowsForm_C-\\PROYECTO_HYUNDAI\\Services\\IServive.cs",
-              "RelativeToolTip": "PROYECTO_HYUNDAI\\Services\\IServive.cs",
-              "ViewState": "AQIAAJ0AAAAAAAAAAAAAALcAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-11T01:33:53.889Z"
             }
           ]
         }

@@ -159,3 +159,61 @@
 2024-04-10 22:46:15 - Error: Error al convertir el Tag del botón a tipo IApp: Unable to cast object of type 'System.Windows.Forms.TabControl' to type 'System.Windows.Forms.TabPage'.
 2024-04-10 22:46:34 - Error: Error al convertir el Tag del botón a tipo IApp: Unable to cast object of type 'System.Windows.Forms.TabControl' to type 'System.Windows.Forms.TabPage'.
 2024-04-10 22:48:11 - Error: Error al convertir el Tag del botón a tipo IApp: Unable to cast object of type 'System.Windows.Forms.TabControl' to type 'System.Windows.Forms.TabPage'.
+2024-04-13 17:33:44 - Error: Error al convertir el Tag del botón a tipo IApp: Unable to cast object of type 'System.Windows.Forms.TabControl' to type 'System.Windows.Forms.TabPage'.
+2024-04-13 17:33:47 - Error: Error al convertir el Tag del botón a tipo IApp: Unable to cast object of type 'System.Windows.Forms.TabControl' to type 'System.Windows.Forms.TabPage'.
+2024-04-13 17:33:50 - Error: Error al convertir el Tag del botón a tipo IApp: Unable to cast object of type 'System.Windows.Forms.TabControl' to type 'System.Windows.Forms.TabPage'.
+2024-04-13 17:33:53 - Error: Error al convertir el Tag del botón a tipo IApp: Unable to cast object of type 'System.Windows.Forms.TabControl' to type 'System.Windows.Forms.TabPage'.
+2024-04-13 17:34:56 - Error: Error al convertir el Tag del botón a tipo IApp: Unable to cast object of type 'System.Windows.Forms.TabControl' to type 'System.Windows.Forms.TabPage'.
+2024-04-13 17:36:36 - Error: Error al convertir el Tag del botón a tipo IApp: Unable to cast object of type 'System.Windows.Forms.TabControl' to type 'System.Windows.Forms.TabPage'.
+2024-04-13 17:41:48 - Error: Error al convertir el Tag del botón a tipo IApp: Unable to cast object of type 'System.Windows.Forms.TabControl' to type 'System.Windows.Forms.TabPage'.
+2024-04-13 17:41:52 - Error: Error al convertir el Tag del botón a tipo IApp: Unable to cast object of type 'System.Windows.Forms.TabControl' to type 'System.Windows.Forms.TabPage'.
+2024-04-13 17:41:55 - Error: Error al convertir el Tag del botón a tipo IApp: Unable to cast object of type 'System.Windows.Forms.TabControl' to type 'System.Windows.Forms.TabPage'.
+2024-04-13 17:41:58 - Error: Error al convertir el Tag del botón a tipo IApp: Unable to cast object of type 'System.Windows.Forms.TabControl' to type 'System.Windows.Forms.TabPage'.
+2024-04-13 17:47:13 - Error: Error al convertir el Tag del botón a tipo IApp: Unable to cast object of type 'System.Windows.Forms.TabControl' to type 'System.Windows.Forms.TabPage'.
+2024-04-13 17:47:17 - Error: Error al convertir el Tag del botón a tipo IApp: Unable to cast object of type 'System.Windows.Forms.TabControl' to type 'System.Windows.Forms.TabPage'.
+2024-04-13 17:48:26 - Error: Error al convertir el Tag del botón a tipo IApp: Unable to cast object of type 'System.Windows.Forms.TabControl' to type 'System.Windows.Forms.TabPage'.
+2024-04-13 17:48:31 - Error: Error al convertir el Tag del botón a tipo IApp: Unable to cast object of type 'System.Windows.Forms.TabControl' to type 'System.Windows.Forms.TabPage'.
+2024-04-13 17:49:36 - Error: Error al convertir el Tag del botón a tipo IApp: Unable to cast object of type 'System.Windows.Forms.TabControl' to type 'System.Windows.Forms.TabPage'.
+2024-04-13 17:54:38 - Error: El sender no es de tipo TabPage
+2024-04-13 17:54:48 - Error: El sender no es de tipo TabPage
+2024-04-13 17:54:52 - Error: El sender no es de tipo TabPage
+2024-04-13 17:54:53 - Error: El sender no es de tipo TabPage
+2024-04-13 17:54:54 - Error: El sender no es de tipo TabPage
+2024-04-13 17:54:54 - Error: El sender no es de tipo TabPage
+2024-04-13 17:55:04 - Error: El sender no es de tipo TabPage
+2024-04-13 17:56:24 - Error: El sender no es de tipo TabPage
+2024-04-13 17:56:25 - Error: El sender no es de tipo TabPage
+2024-04-13 17:56:26 - Error: El sender no es de tipo TabPage
+2024-04-13 17:56:29 - Error: El sender no es de tipo TabPage
+2024-04-13 17:56:30 - Error: El sender no es de tipo TabPage
+2024-04-13 17:56:30 - Error: El sender no es de tipo TabPage
+2024-04-13 17:56:30 - Error: El sender no es de tipo TabPage
+2024-04-13 17:56:30 - Error: El sender no es de tipo TabPage
+2024-04-13 17:56:49 - Error: El sender no es de tipo TabPage
+2024-04-13 17:57:24 - Error: El sender no es de tipo TabPage
+2024-04-13 17:57:28 - Error: El sender no es de tipo TabPage
+2024-04-13 17:57:35 - Error: El sender no es de tipo TabPage
+2024-04-13 17:57:42 - Error: El sender no es de tipo TabPage
+2024-04-13 17:57:56 - Error: El sender no es de tipo TabPage
+2024-04-13 17:58:00 - Error: El sender no es de tipo TabPage
+2024-04-14 13:56:15 - Error: El sender no es de tipo TabPage
+2024-04-14 13:56:21 - Error: El sender no es de tipo TabPage
+2024-04-14 13:56:27 - Error: El sender no es de tipo TabPage
+2024-04-14 13:56:36 - Error: El sender no es de tipo TabPage
+2024-04-14 13:56:42 - Error: El sender no es de tipo TabPage
+2024-04-14 13:56:48 - Error: El sender no es de tipo TabPage
+2024-04-14 13:56:53 - Error: El sender no es de tipo TabPage
+2024-04-14 13:57:00 - Error: El sender no es de tipo TabPage
+2024-04-14 13:57:31 - Error: El sender no es de tipo TabPage
+2024-04-14 13:57:35 - Error: El sender no es de tipo TabPage
+2024-04-14 13:57:42 - Error: El sender no es de tipo TabPage
+2024-04-14 13:59:57 - Error: El sender no es de tipo TabPage
+2024-04-14 14:00:02 - Error: El sender no es de tipo TabPage
+2024-04-14 14:00:08 - Error: El sender no es de tipo TabPage
+2024-04-14 14:01:01 - Error: El sender no es de tipo TabPage
+2024-04-14 14:04:10 - Error: System.ArgumentException: No se puede agregar un control de nivel superior a un control.
+   at System.Windows.Forms.Control.ControlCollection.Add(Control value)
+   at PROYECTO_HYUNDAI.Formularios.MainForm.ButtonViewDetails_Click(Object sender, EventArgs e) in C:\Users\Enrique\source\repos\PROYECTO_HYUNDAI\WindowsForm_C-\PROYECTO_HYUNDAI\Formularios\MainForm.cs:line 70
+2024-04-14 14:04:17 - Error: System.ArgumentException: No se puede agregar un control de nivel superior a un control.
+   at System.Windows.Forms.Control.ControlCollection.Add(Control value)
+   at PROYECTO_HYUNDAI.Formularios.MainForm.ButtonViewDetails_Click(Object sender, EventArgs e) in C:\Users\Enrique\source\repos\PROYECTO_HYUNDAI\WindowsForm_C-\PROYECTO_HYUNDAI\Formularios\MainForm.cs:line 70

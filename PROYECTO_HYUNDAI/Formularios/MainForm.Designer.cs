@@ -55,7 +55,6 @@
             tabControlAplicaciones.SelectedIndex = 0;
             tabControlAplicaciones.Size = new Size(764, 300);
             tabControlAplicaciones.TabIndex = 0;
-            tabControlAplicaciones.Click += ButtonViewDetails_Click;
             // 
             // tab1
             // 

@@ -1,8 +1,11 @@
-﻿using PROYECTO_HYUNDAI.Services;
+﻿using Azure;
+using FastReport.DataVisualization.Charting;
+using PROYECTO_HYUNDAI.Services;
 using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Windows.Forms;
+
 
 namespace PROYECTO_HYUNDAI.Formularios
 {
@@ -22,22 +25,21 @@ namespace PROYECTO_HYUNDAI.Formularios
             {
                 aplicaciones = servicio.GetApps();
                 if (aplicaciones != null)
-                {
+                {                    
                     foreach (var app in aplicaciones)
                     {
+                        
                         TabPage tabPage = new TabPage(app.Nombres);
                         tabPage.Tag = app;
                         tabPage.Text = app.Nombres.ToString();
                         tabPage.Click += ButtonViewDetails_Click;
-                        MessageBox.Show(app.Nombres);
-                        /*Button buttonViewDetails = new Button();
-                        buttonViewDetails.Text = "Ver Detalles";
-                        buttonViewDetails.Tag = app;
-                        buttonViewDetails.Click += ButtonViewDetails_Click;
-                        tabPage.Controls.Add(buttonViewDetails);*/
+                        tabPage.BackColor = Color.Black;
+                        MessageBox.Show(app.ToString());
+                        
                         tabControlAplicaciones.TabPages.Add(tabPage);
                     }
                 }
+
             }
             catch (Exception ex)
             {
@@ -50,37 +52,42 @@ namespace PROYECTO_HYUNDAI.Formularios
         {
             try
             {
-                MessageBox.Show($"{sender}");
-                TabPage button = (TabPage)sender;
-                if (button.Tag is IApp app)
+                if (sender is TabPage tabPage)
                 {
-                    MessageBox.Show($"Nombre de la aplicación: {app.Nombres}");
-
-                    // Obtener el tipo del formulario desde la propiedad Detalles
-                    Type tipoFormulario = Type.GetType($"PROYECTO_HYUNDAI.Formularios.{app.Detalles}");
-
-
-                    // Crear una instancia del formulario y mostrarlo
-                    if (tipoFormulario != null)
+                    IApp app = tabPage.Tag as IApp;
+                    if (app != null)
                     {
-                        Form formulario = (Form)Activator.CreateInstance(tipoFormulario);
-                        formulario.Show();
-                        this.Hide();
+                        MessageBox.Show($"Nombre de la aplicación: {app.Nombres}");
+
+                        // Obtener el tipo del formulario desde la propiedad Detalles
+                        Type tipoFormulario = Type.GetType($"PROYECTO_HYUNDAI.Formularios.{app.Detalles}");
+
+                        // Crear una instancia del formulario y mostrarlo
+                        if (tipoFormulario != null)
+                        {
+                            Form formulario = (Form)Activator.CreateInstance(tipoFormulario);
+                            formulario.Show();
+                            this.Hide();
+                        }
+                        else
+                        {
+                            MessageBox.Show("El tipo del formulario no se encontró.");
+                        }
                     }
                     else
                     {
-                        MessageBox.Show("El tipo del formulario no se encontró.");
+                        RegistrarLog("El Tag del tabPage no es de tipo IApp");
                     }
                 }
                 else
                 {
-                    RegistrarLog("El Tag del botón no es de tipo IApp");
+                    RegistrarLog("El sender no es de tipo TabPage");
                 }
             }
             catch (InvalidCastException ex)
             {
-                MessageBox.Show("Error al convertir el Tag del botón a tipo IApp.");
-                RegistrarLog("Error al convertir el Tag del botón a tipo IApp: " + ex.Message);
+                MessageBox.Show("Error al convertir el Tag del tabPage a tipo IApp.");
+                RegistrarLog("Error al convertir el Tag del tabPage a tipo IApp: " + ex.Message);
             }
             catch (Exception ex)
             {
@@ -88,6 +95,7 @@ namespace PROYECTO_HYUNDAI.Formularios
                 RegistrarLog(ex.ToString());
             }
         }
+
 
 
 
